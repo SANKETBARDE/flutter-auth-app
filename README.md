@@ -2,7 +2,7 @@
 A comprehensive Flutter application that provides robust sign-in and login functionalities. This app integrates multiple authentication methods, including email/password, and social logins (Google, Facebook), and ensures secure storage of user credentials.
 
 # Features
-*User Registration & Login*: Allows users to register and log in with email and password.
+*User Registration & Login*: Allows users to register and log in with email and password.\n
 *Social Login Integration*: Supports Google and Facebook sign-in.
 *Password Management*: Includes features for password reset and recovery.
 *Secure Data Handling*: Uses secure methods to store and manage user data.
